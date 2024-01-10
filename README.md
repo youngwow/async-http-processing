@@ -16,9 +16,9 @@
 3. Запустите каждый микросервис
    ```
    cd M1
-   npm start
+   node ./index.js
    cd ../M2
-   npm start
+   node ./index.js
    ```
 
 ## Инструкция по использованию
